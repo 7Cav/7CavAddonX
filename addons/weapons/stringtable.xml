@@ -1,0 +1,13 @@
+<Project name="cav">
+    <Package name="weapons">
+        <Key ID="str_cav_weapons_heat_655_cs">
+            <English>HEAT 655 CS</English>
+        </Key>
+        <Key ID="str_cav_weapons_heat_655_cs_short">
+            <English>HEAT 655 CS</English>
+        </Key>
+        <Key ID="str_cav_weapons_heat_655_cs_desc">
+            <English>High Explosive Anti tank Confined Space</English>
+        </Key>
+    </Package>
+</Project>
