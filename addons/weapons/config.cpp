@@ -10,7 +10,6 @@ class CfgPatches {
             "cav_main",
             "cav_common",
 
-            "tf47_m3maaws",
             "cav_fix_tf47_m3maaws"
         };
         author = ECSTRING(main,CavModTeam);
